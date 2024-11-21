@@ -4,11 +4,11 @@ MediaWave Smart infotainment system is a free and open source media player based
 
 Source Code
 
-Upstream source code for MediaWave Smart infotainment system is available at https://github.com/pranav4417/Pranav-s-Medcen. You can clone this repository with the command 'git clone'. 
+Upstream source code for MediaWave Smart infotainment system is available at https://github.com/pranav4417/MediaWave You can clone this repository with the command 'git clone'. 
 
 Download
 
-A compiled version of MediaWave Smart infotainment system can be downloaded from https://github.com/pranav4417/Pranav-s-Medcen
+A compiled version of MediaWave Smart infotainment system can be downloaded from https://github.com/pranav4417/MediaWave
 
 License
 
